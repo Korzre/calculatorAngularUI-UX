@@ -13,5 +13,5 @@ O projeto foi desenvolvido em typescript
 
 ## Obervação
 
-O projeto está sem o npm modules, caso deseja baixar aconselha-se a dar um npm install
+O projeto está sem o npm modules, caso deseja clonar aconselha-se a dar um npm install
 
