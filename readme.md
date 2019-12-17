@@ -12,4 +12,4 @@ The project was developed in typescript.
 *  HTML
 
 ## Note
-The project is without npm modules, if you want to clone it is advisable to give `npm install`.
+The project is without npm modules, if you want to clone it is advisable to give <b>`npm install`</b>.
