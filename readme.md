@@ -1,17 +1,16 @@
-# Calculadora feita em Angular
+# Calculator made in Angular
 
-O projeto foi desenvolvido em typescript
+The project was developed in typescript.
 
 <img src="calculadora_angular.PNG" alt="ERRO" />
 
-## Ferramentas utilizadas
+## Tools used
 
 *  Material design
 *  Angular(typescript)
 *  CSS
 *  HTML
 
-## Obervação
-
-O projeto está sem o npm modules, caso deseja clonar aconselha-se a dar um npm install
+## Note
+The project is without npm modules, if you want to clone it is advisable to give npm install.
 
