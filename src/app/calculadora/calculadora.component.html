@@ -1,0 +1,19 @@
+<div class="calculator">
+    <mat-card style="background-color: #3f51b5;">
+    <h1 id="hora">{{date1}}</h1>
+    <div>
+        <input type="text" class="result" value="{{result}}" readonly>
+    </div>
+    <br>
+    <div>
+        <button mat-flat-button color="primary" class="responsive long" *ngFor="let longButton of longButtons" (click)="addToExpression(longButton)">
+            {{longButton}}
+        </button>
+        <button mat-button class="responsive" *ngFor="let button of buttons" (click)= "addToExpression(button)">
+            {{button}}
+        </button>
+    </div>
+   </mat-card>
+</div>
+
+
